@@ -1,5 +1,7 @@
 github.com/go-resty/resty/v2 v2.15.0 h1:clPQLZ2x9h4yGY81IzpMPnty+xoGyFaDg0XMkCsHf90=
 github.com/go-resty/resty/v2 v2.15.0/go.mod h1:0fHAoK7JoBy/Ch36N8VFeMsK7xQOHhvWaC3iOktwmIU=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
 github.com/jomei/notionapi v1.13.2 h1:YpHKNpkoTMlUfWTlVIodOmQDgRKjfwmtSNVa6/6yC9E=
 github.com/jomei/notionapi v1.13.2/go.mod h1:BqzP6JBddpBnXvMSIxiR5dCoCjKngmz5QNl1ONDlDoM=
 github.com/motemen/go-pocket v0.0.0-20201204003030-43b897100651 h1:4h2p7Aoo823bPzV+ctcn11FPqdv7WMLSIx1k0fjQnz0=
