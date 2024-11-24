@@ -8,6 +8,10 @@
 
 <h4 align="center">A minimal CLI tool to synchronize all your saved articles in Pocket with your Notion database.</h4>
 
+This tool allows you to easily import articles you've saved on Pocket into your Notion workspace. It helps organize and manage your saved content with full control over templates and rich metadata, such as article titles, URLs, and tags. No more manual copying and pasting—let the tool do the work for you!
+
+For more detailed background and specific goals of the project, feel free to check out my [article](https://secured-polygon-902513.framer.app/projects/pocket-to-notion-sync)
+
 ![screenshot-sync](https://github.com/user-attachments/assets/07e028d9-d344-490f-bdfd-234e970e7153)
 
 ## Key Features
